@@ -8,7 +8,7 @@ Este projeto documenta as etapas de **migração Lift-and-Shift (As-Is)** com **
 
 ### Diagrama da Infraestrutura 
 
-![Migração](/Imagens/Migração.png)
+![Migração](/Imagens/Migração%20(2).png)
 
 ### ✅ Atividades Necessárias
 
